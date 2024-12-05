@@ -14,7 +14,7 @@ Project consists of a creating a virtual machine on Microsoft Azure. The whole i
 - <b>Azure VM</b>
 
 <h2>What I learned </h2>
-Make sure all your devices and anything that you will connect to the internet with is properly secured. As soon as I made the VM live, attacks were coming in from all across the world. Aside from that, this project allowed me to get more comfortable navigating the Azure portal and incorparating the different services it provides together.
+You need to make sure all your devices and anything that you will connect to the internet with is properly secured. As soon as I made the VM live, attacks were coming in from all across the world. This project allowed me to get more comfortable navigating the Azure portal and incorparating the different services it provides together.
 
 <h2>SIEM Map:</h2>
 
